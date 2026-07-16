@@ -29,5 +29,5 @@ MSc Computer Science Student | Machine Learning & Bio-computing
 ![MATLAB](https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=matlab&logoColor=white)
 
 ---
-📫 Reach me:  [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/jayson-du-toit-8667962ba/))
+📫 Reach me:  [LinkedIn](https://www.linkedin.com/in/jayson-du-toit-8667962ba/)
 
